@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- # Hello
 
 <!---
 AntaripChat/AntaripChat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
