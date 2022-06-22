@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antarip Chatterjee
+- # 👋 Hi, I’m Antarip Chatterjee
 - 👀 I’m interested in ML and ai
 - 🌱 I’m currently learning Ai
 - 💞️ I’m looking to collaborate on ...
