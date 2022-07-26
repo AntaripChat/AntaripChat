@@ -22,11 +22,11 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=antaripchat&&theme=xcode)](https://github.com/antaripchat)
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antaripchat&show_icons=true&locale=en&layout=compact" alt="antaripchat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antaripchat&show_icons=true&locale=en&layout=compact" alt="antaripchat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antaripchat&show_icons=true&locale=en&theme=tokyonigth" alt="antaripchat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antaripchat&" alt="antaripchat" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antaripchat&" alt="antaripchat" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antaripchat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="antaripchat" /></p>
