@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Antarip Chatterjee</h1>
-<h3 align="center">A passionate Student from India</h3>
+<h3 align="center">A Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antaripchat&label=Profile%20views&color=0e75b6&style=flat" alt="antaripchat" /> </p>
 
