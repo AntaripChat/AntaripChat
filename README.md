@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript,Backend**
 - 📫 How to reach me **antaripchatterjee17@gmail.com**
-- 🔗 My Replit Profile https://replit.com/@antarip
+- 🔗 My Replit Profile **https://replit.com/@antarip**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
