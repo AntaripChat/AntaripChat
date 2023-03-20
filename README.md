@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antaripchat&label=Profile%20views&color=0e75b6&style=flat" alt="antaripchat" /> </p>
 
-- 🌱 I’m currently learning **Javascript,Backend**
+<!-- - 🌱 I’m currently learning **,Backend** -->
 - 📫 How to reach me **antaripchatterjee17@gmail.com**
 - 🔗 My Replit Profile **https://replit.com/@antarip**
 
