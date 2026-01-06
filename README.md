@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **antaripchatterjee17@gmail.com**
 - 🔗 My Replit Profile **https://replit.com/@antarip**
+- My Blog **https://antarip4.hashnode.dev/**
 
 
 ## 🌐 Socials:
