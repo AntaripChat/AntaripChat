@@ -8,9 +8,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antaripchat&label=Profile%20views&color=0e75b6&style=flat" alt="antaripchat" /> </p>
 
 
-- 📫 How to reach me **antaripchatterjee17@gmail.com**
+<!--- 📫 How to reach me **antaripchatterjee17@gmail.com**
 - 🔗 My Replit Profile **https://replit.com/@antarip**
-- My Blog **https://antarip4.hashnode.dev/**
+- My Blog **https://antarip4.hashnode.dev/** and **https://antarip.hashnode.dev/**-->
+- 📫 Reach me at: antaripchatterjee17@gmail.com
+- 🔗 Coding Profile: Replit/@antarip
+- ✍️ Read my Blogs: **https://antarip4.hashnode.dev/** & **https://antarip.hashnode.dev/**
 
 
 ## 🌐 Socials:
