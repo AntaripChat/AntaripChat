@@ -12,7 +12,7 @@
 - 🔗 My Replit Profile **https://replit.com/@antarip**
 - My Blog **https://antarip4.hashnode.dev/** and **https://antarip.hashnode.dev/**-->
 - 📫 Reach me at: antaripchatterjee17@gmail.com
-- 🔗 Coding Profile: Replit/@antarip
+<!--- - 🔗 Coding Profile: Replit/@antarip -->
 - ✍️ Read my Blogs: **https://antarip4.hashnode.dev/** & **https://antarip.hashnode.dev/**
 
 
